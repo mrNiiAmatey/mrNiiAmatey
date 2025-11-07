@@ -2,7 +2,7 @@
 
 Pharmacy-tech-turned-software-engineer (BS CS, SNHU ’25) building **cloud-native** and **data-driven** apps.
 
-- 🧰 **Languages:** Java • Python • C++ • JavaScript/TypeScript
+- 🧰 **Languages:** Java(Primary) • Python(Secondary) JavaScript/TypeScript
 - 🧱 **Backend / Cloud:** Node.js • Express • AWS (Lambda, API Gateway, DynamoDB, S3, CloudFront)
 - 💾 **Data:** MongoDB • DynamoDB • SQL basics
 - 🧪 **DevEx:** Git/GitHub • GitHub Actions • Docker
