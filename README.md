@@ -32,7 +32,7 @@ CRUD operations, indexes, queries, and reporting with PyMongo.
 ## 🧭 Focus Areas (Now)
 - Building **Node.js 20.x** Lambdas and REST patterns on AWS
 - **Single-table design** with DynamoDB + CI via GitHub Actions
-- Sharpening **algorithms & DS** (C++/Python) and systems design
+- Sharpening **algorithms & DS** (Java/Python) and systems design
 
 ## 📚 Selected Skills (Quick Matrix)
 
